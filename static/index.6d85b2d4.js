@@ -1,1 +1,0 @@
-const i=e=>typeof e=="number"&&!isNaN(e)?!1:e?Object.keys(e).length<1:!0,u=()=>"0x4AAAAAAAkhM1uKU9iprx7x",a=({value:e,characters:t="****",start:r=3,end:n=4})=>{const s=new RegExp("^(.{"+r+"}).*(.{"+n+"})$");return e?e.replace(s,`$1${t}$2`):""},c=(e,t="None")=>({1:"Positive",2:"Neutral",3:"Negative"})[Number(e)]||t;export{u as a,c as g,i,a as s};

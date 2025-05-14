@@ -1,1 +1,0 @@
-import{al as r,ai as a,a0 as t}from"./entry.011860c9.js";import{i as o}from"./index.afb82750.js";const f=r((i,s)=>{const e=a();if(e.getIsItAnExternalJump)return t("/404");if(!o(e.getToken))return t("/feedback")});export{f as default};

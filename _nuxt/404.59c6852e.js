@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,p as a,a as n,b as _}from"./entry.0ba19b1b.js";const d={},c=e=>(a("data-v-7a016ec7"),e=e(),n(),e),p={class:"error-page"},r=c(()=>_("h1",null,"页面未找到",-1)),l=c(()=>_("p",null,"很抱歉，您请求的页面不存在或已被移除。",-1)),i=[r,l];function h(e,u){return t(),s("div",p,i)}const v=o(d,[["render",h],["__scopeId","data-v-7a016ec7"]]);export{v as default};

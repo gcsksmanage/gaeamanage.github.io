@@ -1,1 +1,0 @@
-import{_ as o,c as a,o as s,p as _,a as c,b as t}from"./entry.0ba19b1b.js";const r={},d=e=>(_("data-v-1a3764fa"),e=e(),c(),e),n={class:"error-page"},p=d(()=>t("h1",null,"未登录，请先登录",-1)),f=[p];function i(e,l){return s(),a("div",n,f)}const u=o(r,[["render",i],["__scopeId","data-v-1a3764fa"]]);export{u as default};
