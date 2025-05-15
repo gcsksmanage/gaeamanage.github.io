@@ -1,1 +1,0 @@
-import{am as n,aj as o,a0 as e,an as s}from"./entry.1b45df7e.js";import{i as a}from"./index.afb82750.js";const m=n((r,i)=>{const t=o();if(t.getIsItAnExternalJump){if(a(t.getToken))return e("/404")}else if(a(t.getToken))return r.path===i.path?e("/login"):s()});export{m as default};
