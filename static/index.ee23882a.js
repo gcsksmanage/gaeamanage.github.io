@@ -1,0 +1,1 @@
+const a=()=>"0x4AAAAAAAkhM1uKU9iprx7x",p=()=>"https://app.aigaea.net",u=({value:t,characters:e="****",start:r=3,end:n=4})=>{const s=new RegExp("^(.{"+r+"}).*(.{"+n+"})$");return t?t.replace(s,`$1${e}$2`):""},g=(t,e="None")=>({1:"Positive",2:"Neutral",3:"Negative"})[Number(t)]||e;export{p as a,a as b,g,u as s};
